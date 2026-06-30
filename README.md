@@ -151,5 +151,34 @@ I'm always interested in:
 https://github.com/Arsie-codes
 
 ---
+---
 
-> Building the BridgeMCP ecosystem, one package at a time.
+# 🌉 Official BridgeMCP Ecosystem
+
+## Framework
+
+- 🌉 BridgeMCP
+  https://github.com/Arsie-codes/bridgemcp
+
+## Official Plugins
+
+- 🔌 bridgemcp-logging
+  https://github.com/Arsie-codes/bridgemcp-logging
+
+## Official Servers
+
+- 🌦️ bridgemcp-server-weather
+  https://github.com/Arsie-codes/bridgemcp-server-weather
+
+### Coming Soon
+
+- 📁 bridgemcp-server-filesystem
+- 🐙 bridgemcp-server-github
+- 🗄️ bridgemcp-server-sqlite
+- 📧 bridgemcp-server-gmail
+- 📅 bridgemcp-server-calendar
+
+---
+
+⭐ Building an open-source ecosystem around the Model Context Protocol (MCP).
+
